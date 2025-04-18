@@ -1,16 +1,18 @@
 # GitHub-Actions-Test
 This repository is created just to test the working of Git Hub actions.
+
 🔥 GitHub Actions vs Jenkins – Short Advantages
-Built-in Integration: GitHub Actions is built into GitHub — no setup needed.
 
-Simpler Setup: No need to host or manage Jenkins servers.
+•  Built-in Integration: GitHub Actions is built into GitHub — no setup needed.
 
-YAML Workflows: Declarative and easy to read; lives with code.
+•  Simpler Setup: No need to host or manage Jenkins servers.
 
-Scalability: GitHub manages runners (cloud-hosted), no manual provisioning.
+•  YAML Workflows: Declarative and easy to read; lives with code.
 
-Cost-Efficient: Free minutes for public repos, pay-as-you-go for private.
+•  Scalability: GitHub manages runners (cloud-hosted), no manual provisioning.
 
-Community Actions: Tons of pre-built actions in the GitHub Marketplace.
+•  Cost-Efficient: Free minutes for public repos, pay-as-you-go for private.
 
-Security: Seamless GitHub permissions and secrets management.
+•  Community Actions: Tons of pre-built actions in the GitHub Marketplace.
+
+•  Security: Seamless GitHub permissions and secrets management.
